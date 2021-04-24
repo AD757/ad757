@@ -1,6 +1,6 @@
 # Alladin Daher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-Documenting my journey as a developer. 
+Follow me around as I document my journey as a developer and learn new tech! 🚀&nbsp;
 
 ## About 
 Dedicated and creative Frontend Web Developer. With my creativity, education and experience I love to develop and build websites and applications 🌎&nbsp;
