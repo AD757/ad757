@@ -1,9 +1,9 @@
 # Alladin Daher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-Follow me around as I document my journey as a developer and learn new tech! 🚀&nbsp;
+Follow me around as I document my journey as a designer & developer learning new tech! 🚀&nbsp;
 
 ## About 
-Dedicated and creative Frontend Web Developer. With my creativity, education and experience I love to develop and build websites and applications 🌎&nbsp;
+Creative UX designer & Frontend Developer that likes to solve design problems, create smart user interfaces and develop and build websites and applications 🌎&nbsp;
 
 
 ## Find me around the web
